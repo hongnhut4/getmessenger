@@ -1,0 +1,17 @@
+{
+  "name": "get",
+  "version": "1.0.0",
+  "description": "lay tin nhan facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "hong_nhut",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "file://facebook-chat-api"
+  }
+}
